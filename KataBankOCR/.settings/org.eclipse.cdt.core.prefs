@@ -1,0 +1,7 @@
+#Wed Nov 23 15:42:54 CST 2011
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.648100152/PATH/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.648100152/PATH/operation=replace
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.648100152/PATH/value=C\:\\eclipse;C\:\\cygwin\\bin;C\:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C\:\\Windows\\system32;C\:\\Windows;C\:\\Windows\\System32\\Wbem;C\:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C\:\\Program Files (x86)\\QuickTime\\QTSystem\\
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.648100152/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.648100152/appendContributed=true
